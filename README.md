@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **JavaScript - Bootstrap**
 
-- 📫 How to reach me **ossmanos@outlook.com**
+- 📫 How to reach me **abdullahi_osman91@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
